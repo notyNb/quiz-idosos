@@ -20,6 +20,12 @@ const questions = [
         answers: ["Baixando qualquer antivirus na internet", "Utilizando o Windows Defender para verificar sempre a integridade do seu sistema", "Desinstalando tudo", "Comprar um novo computador"],
         correct: "Utilizando o Windows Defender para verificar sempre a integridade do seu sistema"
 
+    },
+    {
+        question: "O que é Phishing?",
+        answers: ["Envio de e-mails falsos que parecem ser de fontes legítimas para induzir as pessoas a fornecerem informações confidenciais", "Um ataque personalizado direcionado a uma pessoa ou organização específica.", "Usar um telefonema para induzir a vítima a revelar informações pessoais.", "Tentativa de adivinhar a senha testando todas as combinações possíveis até encontrar a correta."],
+        correct: "Envio de e-mails falsos que parecem ser de fontes legítimas para induzir as pessoas a fornecerem informações confidenciais"
+
     }
 ];
 
